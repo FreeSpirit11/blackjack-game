@@ -26,11 +26,12 @@ You will need the following software to run the BlackJack Game:
 
 1. Clone the repository:
    ```shell
-     git clone https://github.com/resole79/python-blackjack-game.git
+   git clone https://github.com/resole79/python-blackjack-game.git
+
 
 2.Run the blackjack.py file:
-    ```shell
-     python blackjack.py
+      ```shell
+      python blackjack.py
 
 ## File Structure
 
