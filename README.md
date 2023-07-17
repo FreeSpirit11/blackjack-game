@@ -30,7 +30,7 @@ You will need the following software to run the BlackJack Game:
 
 2.Run the blackjack.py file:
     ```shell
-      python blackjack.py
+       python blackjack.py
 
 
 ## File Structure
