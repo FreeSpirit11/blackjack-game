@@ -27,10 +27,9 @@ You will need the following software to run the BlackJack Game:
 1. Clone the repository:
    ```shell
    git clone https://github.com/FreeSpirit11/blackjack-game.git
-
-
+   
 2.Run the blackjack.py file:
-        python blackjack.py
+- python blackjack.py
 
 ## File Structure
 
